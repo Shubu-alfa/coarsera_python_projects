@@ -1,0 +1,22 @@
+week-2 project rock_paper_scissor_spock_lizard:
+http://www.codeskulptor.org/#user43_XwlMnqiECv9xphO.py
+
+
+Taj-Mahal is a nice place.I live nearby. Where do you live?
+Find all the people having age between 30 to 60?
+
+week-2 project Guess the number :
+http://www.codeskulptor.org/#user43_g7nztJLGvwo6EcX.py
+
+http://www.codeskulptor.org/#user43_ibKqDTywLILbwZa.py
+
+http://www.codeskulptor.org/#user43_xn2TGa6xMgnRA2z.py
+
+automobile code:
+http://www.codeskulptor.org/#user43_CNMsGjDw3l69HNE.py
+
+week-3 Stopwatch:
+http://www.codeskulptor.org/#user43_QufYWeygGlQQWxz_6.py
+
+week-4 Pong:
+http://www.codeskulptor.org/#user43_3X1oJ2YcmnTsIUl.py
